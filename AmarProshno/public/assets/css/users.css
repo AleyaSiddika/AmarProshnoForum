@@ -1,0 +1,155 @@
+
+body{
+    background-color: #666;
+}
+.titleimage{
+    float: left;
+    margin-top: -15px;
+}
+.titleAmar{
+    font-size: 22px;
+    color: #0c8b22;
+    font-weight: bold ;
+}
+.titleProshno{
+    font-weight: bold ;
+    color: #c51c32;
+    font-size: 24px;
+}
+.usersprofile{
+    margin-left: 100px;
+    height: 50px;
+}
+.usersprofile:hover{
+    background-color: #eee;
+}
+.userImage{
+    height: 40px;
+    width: 40px;
+    line-height: 50px;
+    margin-top: 5px;
+    float: left;
+}
+.usersN{
+    height: 50px;
+    line-height: 50px;
+    padding-left: 5px;
+    color: #3537d9;
+    font-weight: bold;
+    font-size: 15px;
+    float: left;
+}
+.logOut{
+    padding-left: 50px;
+    height: 50px;
+    line-height: 50px;
+    color:blue;
+    font-size: 13px;
+    font-weight: bold;
+}
+.logOut:hover{
+    color: #ff2620;
+}
+
+/*main body content*/
+
+/* Main conyent */
+.mainContent{
+    width: 95%;
+    height: auto;
+    margin: auto;
+    margin-top: 60px;
+    background-color:#f4f4f4;
+}
+
+.mainContentents{
+    width: 95%;
+    height: auto;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    background-color:#f4f4f4;
+}
+.allQue{
+    width: 99%;
+    height: 50px;
+    float: left;
+    border-bottom: 1px solid #ccc;
+    font-size: 18px;
+    line-height: 50px;
+    font-weight:bold ;
+}
+
+/*Left Content*/
+.leftContent{
+    width: 73%;
+    height: auto;
+    float: left;
+    margin-top: 15px;
+}
+.Quetable{
+    height: auto;
+    width:760px;
+    float: left;
+    border-bottom: 1px solid #0ab002;
+}
+.ImageBox{
+    text-align: center;
+    width: 90px;
+    height:auto;
+    float: left;
+}
+.usersImage{
+    height: 65px;
+    width:65px;
+}
+.usersName{
+    font-size: 12px;
+    text-align: center;
+    width: 100%;
+    color: #000;
+    height: 50px;
+    line-height: 50px;
+    padding-left: 5px;
+    font-weight: bold;
+    float: left;
+}
+.QueBox{
+    margin-top: -20px;
+}
+.QueTitle{
+    width: 670px;
+    height: auto;
+    float: right;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-top: -20px;
+    font-size: 16px;
+    color: royalblue;
+}
+.DisBox{
+    width: 670px;
+    height: auto;
+    float: right;
+    padding-left: 10px;
+    padding-top: 5px;
+    margin-top: -10px;
+    font-size: 13px;
+    color: #666;
+}
+.quedis{
+
+}
+.readmore{
+    padding-left: 5px;
+    color: #2023db;
+    text-decoration: underline;
+}
+.readmore:hover{
+    color: #00b008;
+}
+
+
+
+
+

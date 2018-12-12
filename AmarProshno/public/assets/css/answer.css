@@ -1,0 +1,236 @@
+.answer{
+    width: 73%;
+    height: auto;
+    float: left;
+    margin-top: 15px;
+}
+.queText{
+    width: 99%;
+    height: 55px;
+    float: left;
+    border-bottom: 1px dotted #e3207b;
+    font-size: 20px;
+    line-height: 50px;
+    color: #f46290;
+    font-weight:bold ;
+}
+.queTable{
+    width: 100%;
+    height: auto;
+    float: left;
+    margin-bottom: 12px;
+    border-bottom: 1px dotted #e3207b;
+}
+.totalImgNameBox{
+    width: 15%;
+    height: auto;
+    float: left;
+}
+.queImageNameBox{
+    width: 100%;
+    height: 140px;
+    float: left;
+    background:#f3e7e4;
+    /*border:1px dotted #f37eb3;*/
+}
+.queNameText{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    color: #f41e8c;
+}
+.queImageBoxss{
+    width: 100%;
+    height: 90px;
+    padding-left: 20px;
+    padding-top: 8px;
+    float: left;
+}
+.queImages{
+
+}
+.ratting{
+    height: auto;
+    width: 100%;
+    float: left;
+    background-color: #fff9c4;
+}
+.rateTxt{
+    text-align: center;
+    border-bottom: 1px solid;
+    color: #2f73c4;
+    font-weight: bold;
+    height: 25px;
+    line-height: 25px;
+}
+.upper{
+    height: 25px;
+    text-align: center;
+}
+.glyphicon-triangle-top{
+    font-size: 40px;
+    margin-top:-8px ;
+}
+.lower{
+    height: 25px;
+    text-align: center;
+}
+.glyphicon-triangle-bottom{
+    font-size: 40px;
+    margin-top:-8px ;
+}
+.NumberRate{
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    color: #3f6ade;
+}
+
+
+
+.AllqueShow{
+    float: left;
+    width: 85%;
+    height: auto;
+    padding-left: 10px;
+    text-align: justify;
+    background-color: #f3e7e4;
+}
+.queTitleBoxs{
+    height: auto;
+    width: 100%;
+    float: left;
+}
+.queTitle{
+    height: auto;
+    width: 88%;
+    float: left;
+    font-size: 16px;
+    font-weight: bold;
+    color: #bc3f67;
+}
+.QueDesc{
+    height: auto;
+    width: 100%;
+    float: left;
+}
+.queDisTxt{
+    font-size: 14px;
+    text-align: justify;
+    font-weight: 500;
+    padding-top: 5px;
+    padding-right: 10px;
+}
+
+
+/* Ans part*/
+
+.ansText{
+    width: 100%;
+    height: 40px;
+    float: left;
+    margin-top: 15px;
+    border-bottom: 1px dotted #0ab002;
+    font-size: 18px;
+    line-height: 40px;
+    /*color: #51d357;*/
+    color: #16a10b;
+    font-weight:bold ;
+    /*background: #50c3a5;*/
+}
+.top{
+    font-size: 14px;
+    color: #16a10b;
+}
+
+.ansTable{
+    width: 100%;
+    height: auto;
+    float: left;
+    margin-bottom: 15px;
+    border-bottom: 1px dotted #0ab002;
+}
+.totalAnsImgNameBox{
+    width: 15%;
+    height: auto;
+    float: left;
+}
+.ansImageNameBox{
+    width: 100%;
+    height: 140px;
+    float: left;
+    background: rgba(149,244,136,0.18);
+}
+.ansNameText{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    color: #16a10b;
+}
+.ansImageBoxss{
+    width: 100%;
+    height: 90px;
+    padding-left: 20px;
+    padding-top: 8px;
+    float: left;
+}
+.ansImages{
+
+}
+.AllansShow{
+    float: left;
+    width: 85%;
+    height: auto;
+    padding-left: 10px;
+    text-align: justify;
+    background-color: rgba(149,244,136,0.18);
+}
+.ansDesc{
+    height: auto;
+    width: 88%;
+    float: left;
+}
+.ansDisTxt{
+    font-size: 14px;
+    text-align: justify;
+    font-weight: 500;
+    padding-right: 10px;
+}
+.moreOpt{
+    height: 35px;
+    width: 12%;
+    float: right;
+    border: 1px solid #7483bc;
+}
+.txtMore{
+    margin-top: -10px;
+}
+.main-menuOpt{
+    padding-right: 13px;
+    height: 0px;
+}
+/* Write ans part*/
+
+.GiveAnss{
+    width: 100%;
+    height: 55px;
+    float: left;
+    border-bottom: 1px solid #0b6ba6;
+    font-size: 18px;
+    line-height: 50px;
+    color: #0b6ba6;
+    font-weight:bold ;
+    margin-top: 15px;
+    /*background: #50c3a5;*/
+}
+.Answerstabless{
+}
+.anstextArea{
+    height: auto;
+    width: 700px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 10px;
+}

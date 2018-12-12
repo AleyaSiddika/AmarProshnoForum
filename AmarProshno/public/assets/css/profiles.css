@@ -1,0 +1,102 @@
+/*main body content*/
+
+.profiless{
+    margin-top: 30px;
+    height: 600px;
+}
+
+.profileImage{
+    height: 300px;
+    width: 195px;
+    float: left;
+}
+.imgBorder{
+    padding-left: 20px;
+    padding-top: 20px;
+    height: 205px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #e0ecf1;
+}
+.imgSize{
+    box-shadow: 1px 3px 8px 0px #666;
+}
+.editPro{
+    width: 100px;
+    margin-top: 10px;
+}
+.btnnnnnn{
+    margin-left: 20px;
+    width: 152px;
+}
+
+.profileDetails{
+    width: 840px;
+    height: auto;
+    margin-left: 15px;
+    float: left;
+    margin-top: 0px;
+}
+.table{
+    /*background-color: #e6f0f7;*/
+    /*background-color: #377ea7;*/
+    /*color: #fff;*/
+
+    background-color:#e0ecf1 ;
+    color: #333;
+    border-radius: 10px;
+}
+.titleName{
+    font-size: 15px;
+    float: left;
+}
+.ValueOfDB{
+    float: left;
+}
+.trrr{
+    width: 200px;
+    padding-left: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #1e538a;
+}
+.tddd{
+    width: 600px;
+    color: #1e538a;
+    font-size: 16px ;
+}
+
+.EditProfiles{
+    width: 810px;
+    height: auto;
+    margin-left: 10px;
+    float: left;
+    border: 1px solid #ddd;
+    margin-top: 0px;
+}
+.EditTable{
+    background-color: #4e77a7;
+}
+.Edit_table{
+    height: auto;
+    width: 760px;
+    margin: auto;
+    background-color: lavender;
+
+}
+.Edittrrr{
+    width: 200px;
+    padding-left: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #1e538a;
+}
+.Edittddd{
+    width: 600px;
+    color: #1e538a;
+    font-size: 16px ;
+}
+
+.inputBox{
+    background-color: #cbdce1;
+}

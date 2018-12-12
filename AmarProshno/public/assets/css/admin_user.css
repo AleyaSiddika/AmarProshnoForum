@@ -1,0 +1,107 @@
+.leftContents{
+    width: 73%;
+    height: auto;
+    float: left;
+    margin-top: 15px;
+}
+.topQueText{
+    width: 99%;
+    height: 55px;
+    float: left;
+    border-bottom: 1px solid #e3207b;
+    font-size: 20px;
+    line-height: 50px;
+    color: #f46290;
+    font-weight:bold ;
+}
+.Table{
+    width: 100%;
+    height: auto;
+    float: left;
+    margin-bottom: 15px;
+    border-bottom: 1px dotted #e3207b;
+}
+.ImageNameBox{
+    width: 15%;
+    height: 140px;
+    float: left;
+    background:#f3e7e4;
+    /*border:1px dotted #f37eb3;*/
+}
+.NameText{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    color: #f41e8c;
+}
+.ImageBoxss{
+    width: 100%;
+    height: 90px;
+    padding-left: 20px;
+    padding-top: 8px;
+    float: left;
+}
+.Images{
+
+}
+.Allque{
+    float: left;
+    width: 85%;
+    height: auto;
+    padding-left: 10px;
+    text-align: justify;
+    background-color: #f3e7e4;
+}
+.QueTitleBox{
+    height: auto;
+    width: 100%;
+    float: left;
+}
+.Title{
+    height: auto;
+    width: 88%;
+    float: left;
+    font-size: 16px;
+    font-weight: bold;
+    padding-right: 5px;
+    color: #bc3f67;
+}
+.DiscriptionBox{
+    height: auto;
+    width: 100%;
+    float: left;
+}
+.QuetionDis{
+    font-size: 14px;
+    text-align: justify;
+    font-weight: 500;
+    padding-top: 5px;
+    padding-right: 10px;
+}
+.Quetag{
+    height: 30px;
+    float: right;
+    padding-top: 5px;
+    padding-right: 10px;
+    /*border: 1px solid;*/
+}
+.tag{
+    background-color: #f5be9b;
+    padding: 5px ;
+    margin-left: 3px;
+    border-radius: 5px;
+}
+
+.moreQue{
+    height: 35px;
+    width: 12%;
+    float: right;
+    border: 1px solid #7483bc;
+}
+.txtMoreQue{
+    margin-top: -10px;
+}
+.main-menuQue{
+    padding-right: 13px;
+    height: 0px;
+}

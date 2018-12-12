@@ -1,0 +1,344 @@
+body{
+    background-color:#666;
+}
+.navbar{
+    border-top: 3px red solid;
+    padding-left: 125px;
+    height: 60px;
+    padding-top: 3px;
+    color: #FF4518;
+    font-size: 14px; /*d1e290   d5e29b*/
+    background-color:#d5e29b;
+}
+.titleimage{
+    float: left;
+   margin-top: -15px;
+}
+.titleAmar{
+    font-size: 22px;
+    color: #0c8b22;
+    font-weight: bold ;
+}
+.titleProshno{
+    font-weight: bold ;
+    color: #c51c32;
+    font-size: 24px;
+}
+.singUp{
+    margin-left: 0px;
+}
+.login{
+    color: blue;
+    font-weight: bold;
+}
+.btnstyle{
+    margin-top: -7px;
+}
+
+
+.header{
+    border-bottom: 3px solid #000;
+    width: 95%;
+    height: 300px;
+    background: url(../images/main.jpg) top center scroll ;
+    margin: auto;
+    text-align: center;
+    margin-top: 60px;
+}
+.JoinTitle{
+    text-align: center;
+    font-size: 24px;
+    color: #fff;
+    padding-top: 50px;
+}
+.bottom{
+    border-bottom: 3px solid #b2dba1;
+    width: 25px;
+    text-align: center;
+    margin: auto;
+}
+.Community{
+    text-align: center;
+    width: 350px;
+    font-size: 17px;
+    margin: auto;
+    color: #ddd;
+    padding-top: 10px;
+}
+
+
+/* Main conyent */
+.mainContent{
+    width: 95%;
+    height: auto;
+    margin: auto;
+    margin-bottom: 30px;
+    background-color:#f4f4f4;
+}
+.mainContentents{
+    width: 95%;
+    height: auto;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    background-color:#f4f4f4;
+}
+.publicContents{
+    width: 95%;
+    height: auto;
+    margin: auto;
+    margin-bottom: 30px;
+    background-color:#f4f4f4;
+}
+.topQue{
+    width: 99%;
+    height: 50px;
+    float: left;
+    border-bottom: 1px solid #ccc;
+    font-size: 18px;
+    line-height: 50px;
+    font-weight:bold ;
+}
+.mesg{
+    width: 70%;
+    height: 55px;
+    float: left;
+    border-bottom: 1px solid #e3207b;
+}
+
+.leftContent{
+    width: 73%;
+    height: auto;
+    float: left;
+    margin-top: 15px;
+}
+.Quetable{
+    height: auto;
+    width:760px;
+    float: left;
+    border-bottom: 1px solid #ccc;
+}
+.ImageBox{
+    text-align: center;
+    width: 90px;
+    height:115px;
+    line-height: 115px;
+    float: left;
+}
+.usersImage{
+    height: 75px;
+    width:70px;
+}
+.QueBox{
+    margin-top: -20px;
+}
+.QueTitle{
+    width: 670px;
+    height: auto;
+    float: right;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-top: -20px;
+    font-size: 16px;
+    color: royalblue;
+}
+.DisBox{
+    width: 670px;
+    height: auto;
+    float: right;
+    padding-left: 10px;
+    padding-top: 5px;
+    margin-top: -10px;
+    font-size: 13px;
+    color: #666;
+}
+.quedis{
+
+}
+.readmore{
+    padding-left: 5px;
+    color: #2023db;
+    text-decoration: underline;
+}
+.readmore:hover{
+    color: #00b008;
+}
+
+
+/* Right Content*/
+
+.rightContent{
+    width: 25%;
+    height: auto;
+    float: right;
+    margin-top: 15px;
+}
+
+.RightLogin{
+    height: auto;
+    background-color: #fff;
+    border-radius:5px ;
+}
+.titleLogin{
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    margin: auto;
+    background-color:#4e80b1;
+    border-radius:5px ;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+.formLOGIN{
+    /*border: 1px solid #c6dbda;*/
+    border-radius:5px ;
+}
+.askQue{
+    width: 100%;
+    height: 50px;
+}
+.AskBtn{
+    height: 50px;
+    line-height: 45px;
+    text-align: right;
+}
+
+.btnnn:hover{
+    background-color: #37a685;
+    color: #fff;
+}
+
+
+.lastTopTenQue{
+    height: auto;
+    width: 100%;
+    margin-top: 0px;
+    background-color: #f3eff1;
+}
+.titleTopten{
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    margin: auto;
+    background-color:#dd2647;
+    border-radius:5px ;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+.TopQueTen{
+    height: auto;
+    width: 100%;
+    /*padding-top: 15px;*/
+    border-right: 1px solid #b1d0d9;
+    border-left: 1px solid #b1d0d9;
+    border-radius:5px;
+}
+.TenQue{
+    height: auto;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-bottom: 1px dotted #708bb0;
+    font-size: 13px;
+    color: #1b79a6;
+    list-style: square;
+    padding-left: 10px;
+    padding-right: 3px;
+    text-align: justify;
+}
+.text{
+    margin-left: -10px;
+}
+.TenQue:hover {
+    background-color:#708bb0;
+    color: #fff;
+}
+
+/* Last add ten question*/
+.lastAddTenQue{
+    height: auto;
+    width: 100%;
+    margin-top: 15px;
+    /*background-color: #e8eef3;*/
+    background-color: #e1f3e5;
+}
+.titleAddten{
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    margin: auto;
+    background-color:#b0dd89;
+    border-radius:5px ;
+    color: #333;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+.AddQueTen{
+    height: auto;
+    width: 100%;
+    /*padding-top: 15px;*/
+    border-right: 1px solid #b1d0d9;
+    border-left: 1px solid #b1d0d9;
+    border-radius:5px;
+}
+.AddLastQue{
+    height: auto;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-bottom: 1px dotted #708bb0;
+    font-size: 13px;
+    color: #1b79a6;
+    list-style: square;
+    padding-left: 10px;
+    padding-right: 5px;
+    text-align: justify;
+}
+.text{
+    margin-left: -8px;
+}
+.AddLastQue:hover {
+    background-color:#708bb0;
+    color: #fff;
+}
+
+
+
+
+
+/*Footer*/
+.MainFooter{
+    margin-top: 10px;
+    /*background-color: #e5f2f5;*/
+    background:linear-gradient(#070000 ,#4c0001, #070000) ;
+    height: 30px;
+    width: 100%;
+}
+.Footer{
+    text-align: center;
+    width: 100%;
+    padding-top: 10px;
+    font-size: 11px;
+    color: #999;
+}
+
+
+.contacts{
+    height: 380px;
+    background-color: #dde6eb;
+    border-radius: 5px;
+    margin-left: 160px;
+    padding-top: 10px;
+    width: 60%;
+}
+
+.message{
+    height: 30px;
+    color: #5275b4;
+    border-bottom: 1px dotted #5275b4;
+}
+
+

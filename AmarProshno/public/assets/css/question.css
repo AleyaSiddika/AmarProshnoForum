@@ -1,0 +1,76 @@
+
+/* Main Content*/
+.AskQue{
+    width: 99%;
+    height: 50px;
+    text-align: center;
+    float: left;
+    border-bottom: 1px dotted #8763f5;
+    font-size: 24px;
+    line-height: 50px;
+    color: #43a1d9;
+    font-weight:bold ;
+}
+.leftContent{
+    width: 73%;
+    height: 700px;
+    float: left;
+    margin-top: 20px;
+}
+.Quetable{
+    height: 600px;
+    width:785px;
+    float: left;
+   border: 1px solid;
+}
+.queInputBox{
+    height: 50px;
+    width: 700px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+.InputBox{
+    height: auto;
+    width: 100%;
+    float: left;
+}
+.textArea{
+    height: 200px;
+    width: auto;
+    float: left;
+    margin-left: 35px;
+    margin-top: 10px;
+
+}
+.areaBox{
+    height: 200px;
+    width: 700px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    border: 1px solid #ccc;
+}
+.BtnTextarea{
+    height: auto;
+    width: 700px;
+    float: left;
+    margin-left: 35px;
+}
+.button{
+    float: right;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.CheckBox{
+    height: 40px;
+    line-height: 40px;
+    width: 700px;
+    float: left;
+    margin-left: 35px;
+    padding-left: 10px;
+    background-color: #6f5a74;
+    color: #fff;
+}
